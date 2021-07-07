@@ -179,6 +179,7 @@ em {
 
 .footer-icon {
   margin: 20px 10px;
+  color: #212529;
 }
 
 @media (max-width:1028px){
